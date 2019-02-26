@@ -1,4 +1,4 @@
 def my_select(collection)
  array = []
- collection.select  
+ collection.select { |num|  
 end
